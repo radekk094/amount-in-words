@@ -1,0 +1,8 @@
+{
+  "short_name": "Kwota Słownie",
+  "name": "Kwota Słownie",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
