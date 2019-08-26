@@ -1,0 +1,152 @@
+{
+    "hundreds": [
+        {
+            "amountInNumber": "1",
+            "amountInWords": "sto"
+        },
+        {
+            "amountInNumber": "2",
+            "amountInWords": "dwieście"
+        },
+        {
+            "amountInNumber": "3",
+            "amountInWords": "trzysta"
+        },
+        {
+            "amountInNumber": "4",
+            "amountInWords": "czterysta"
+        },
+        {
+            "amountInNumber": "5",
+            "amountInWords": "pięśćset"
+        },
+        {
+            "amountInNumber": "6",
+            "amountInWords": "sześćset"
+        },
+        {
+            "amountInNumber": "7",
+            "amountInWords": "siedemset"
+        },
+        {
+            "amountInNumber": "8",
+            "amountInWords": "osiemset"
+        },
+        {
+            "amountInNumber": "9",
+            "amountInWords": "dziewięćset"
+        }
+    ],
+    "dozens": [
+        {
+            "amountInNumber": "2",
+            "amountInWords": "dwadzieścia"
+        },
+        {
+            "amountInNumber": "3",
+            "amountInWords": "trzydzieści"
+        },
+        {
+            "amountInNumber": "4",
+            "amountInWords": "czterdzieści"
+        },
+        {
+            "amountInNumber": "5",
+            "amountInWords": "pięćdziesiąt"
+        },
+        {
+            "amountInNumber": "6",
+            "amountInWords": "sześćdziesiąt"
+        },
+        {
+            "amountInNumber": "7",
+            "amountInWords": "siedemdziesiąt"
+        },
+        {
+            "amountInNumber": "8",
+            "amountInWords": "osiemdziesiąt"
+        },
+        {
+            "amountInNumber": "9",
+            "amountInWords": "dziewięćdziesiąt"
+        }
+    ],
+    "unities": [
+        {
+            "amountInNumber": "1",
+            "amountInWords": "jeden"
+        },
+        {
+            "amountInNumber": "2",
+            "amountInWords": "dwa"
+        },
+        {
+            "amountInNumber": "3",
+            "amountInWords": "trzy"
+        },
+        {
+            "amountInNumber": "4",
+            "amountInWords": "cztery"
+        },
+        {
+            "amountInNumber": "5",
+            "amountInWords": "pięć"
+        },
+        {
+            "amountInNumber": "6",
+            "amountInWords": "sześć"
+        },
+        {
+            "amountInNumber": "7",
+            "amountInWords": "siedem"
+        },
+        {
+            "amountInNumber": "8",
+            "amountInWords": "osiem"
+        },
+        {
+            "amountInNumber": "9",
+            "amountInWords": "dziewięć"
+        },
+        {
+            "amountInNumber": "10",
+            "amountInWords": "dziesięć"
+        },
+        {
+            "amountInNumber": "11",
+            "amountInWords": "jedenaście"
+        },
+        {
+            "amountInNumber": "12",
+            "amountInWords": "dwanaście"
+        },
+        {
+            "amountInNumber": "13",
+            "amountInWords": "trzynaście"
+        },
+        {
+            "amountInNumber": "14",
+            "amountInWords": "czternaście"
+        },
+        {
+            "amountInNumber": "15",
+            "amountInWords": "piętnaście"
+        },
+        {
+            "amountInNumber": "16",
+            "amountInWords": "szesnaście"
+        },
+        {
+            "amountInNumber": "17",
+            "amountInWords": "siedemnaście"
+        },
+        {
+            "amountInNumber": "18",
+            "amountInWords": "osiemnaście"
+        },
+        {
+            "amountInNumber": "19",
+            "amountInWords": "dziewiętnaście"
+        }
+    ]
+}
